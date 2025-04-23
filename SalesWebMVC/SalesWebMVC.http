@@ -1,0 +1,6 @@
+@SalesWebMVC_HostAddress = http://localhost:5077
+
+GET {{SalesWebMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
